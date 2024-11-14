@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\bin\Debug\Hibakereso_joVerzio.exe.config
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\bin\Debug\Hibakereso_joVerzio.exe
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\bin\Debug\Hibakereso_joVerzio.pdb
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\obj\Debug\Hibakereso_joVerzio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\obj\Debug\Hibakereso_joVerzio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\obj\Debug\Hibakereso_joVerzio.exe
+C:\Users\PC\Desktop\Hibakereso_joVerzio\Hibakereso_joVerzio\obj\Debug\Hibakereso_joVerzio.pdb
