@@ -1,0 +1,7 @@
+E:\c#\fajlkezeles-I\fajlkezeles-I\bin\Debug\fajlkezeles-I.exe.config
+E:\c#\fajlkezeles-I\fajlkezeles-I\bin\Debug\fajlkezeles-I.exe
+E:\c#\fajlkezeles-I\fajlkezeles-I\bin\Debug\fajlkezeles-I.pdb
+E:\c#\fajlkezeles-I\fajlkezeles-I\obj\Debug\fajlkezeles-I.exe
+E:\c#\fajlkezeles-I\fajlkezeles-I\obj\Debug\fajlkezeles-I.pdb
+E:\c#\fajlkezeles-I\fajlkezeles-I\obj\Debug\fajlkezeles-I.csproj.AssemblyReference.cache
+E:\c#\fajlkezeles-I\fajlkezeles-I\obj\Debug\fajlkezeles-I.csproj.CoreCompileInputs.cache

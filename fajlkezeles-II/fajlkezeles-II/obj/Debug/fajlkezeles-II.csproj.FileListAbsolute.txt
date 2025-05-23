@@ -1,0 +1,7 @@
+Z:\c#\fajlkezeles-II\fajlkezeles-II\bin\Debug\utca.txt
+Z:\c#\fajlkezeles-II\fajlkezeles-II\bin\Debug\fajlkezeles-II.exe.config
+Z:\c#\fajlkezeles-II\fajlkezeles-II\bin\Debug\fajlkezeles-II.exe
+Z:\c#\fajlkezeles-II\fajlkezeles-II\bin\Debug\fajlkezeles-II.pdb
+Z:\c#\fajlkezeles-II\fajlkezeles-II\obj\Debug\fajlkezeles-II.csprojAssemblyReference.cache
+Z:\c#\fajlkezeles-II\fajlkezeles-II\obj\Debug\fajlkezeles-II.exe
+Z:\c#\fajlkezeles-II\fajlkezeles-II\obj\Debug\fajlkezeles-II.pdb

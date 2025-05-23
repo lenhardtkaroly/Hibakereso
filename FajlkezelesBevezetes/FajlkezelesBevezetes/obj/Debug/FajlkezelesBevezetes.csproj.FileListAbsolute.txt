@@ -1,0 +1,7 @@
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\bin\Debug\FajlkezelesBevezetes.exe.config
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\bin\Debug\FajlkezelesBevezetes.exe
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\bin\Debug\FajlkezelesBevezetes.pdb
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\obj\Debug\FajlkezelesBevezetes.exe
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\obj\Debug\FajlkezelesBevezetes.pdb
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\obj\Debug\FajlkezelesBevezetes.csproj.AssemblyReference.cache
+E:\c#\FajlkezelesBevezetes\FajlkezelesBevezetes\obj\Debug\FajlkezelesBevezetes.csproj.CoreCompileInputs.cache
